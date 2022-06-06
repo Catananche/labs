@@ -1,0 +1,48 @@
+body{
+    background-color:#edeef4 !important;
+}
+li{
+    list-style: none;
+}
+.size{
+    width: 25px;
+}
+.sizeSecond{
+    width: 40px;
+}
+.sizethird{
+    width: 55px;
+}
+.bord{
+    border-radius: 15px !important;
+}
+.u9{
+    border: 2px solid rgba(75, 79, 84, 0.1);
+	border-radius:25px;
+	padding:30px;
+}
+.first{
+    border-radius: 20px;
+	
+}
+.director{
+    background-color: #e6eaee  ;
+}
+.georgia{
+	font-family:Georgia;
+}
+.gr{
+	color: #3c4c61;
+}
+.gr1{
+	color: #5b6a7c;
+}
+a{
+	cursor: pointer !important;
+}
+.point{
+	cursor:pointer !important ;
+}
+.colChanch{
+	color: #5b6a7c !important;
+}
